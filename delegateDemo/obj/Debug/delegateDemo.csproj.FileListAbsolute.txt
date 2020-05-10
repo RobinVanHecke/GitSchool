@@ -16,3 +16,12 @@ C:\Users\wim\source\repos\preteaching\delegateDemo\obj\Debug\delegateDemo.Proper
 C:\Users\wim\source\repos\preteaching\delegateDemo\obj\Debug\delegateDemo.csproj.GenerateResource.cache
 C:\Users\wim\source\repos\preteaching\delegateDemo\obj\Debug\delegateDemo.exe
 C:\Users\wim\source\repos\preteaching\delegateDemo\obj\Debug\delegateDemo.pdb
+C:\Users\robin\OneDrive\Bureaublad\GitSchool\delegateDemo\bin\Debug\delegateDemo.exe.config
+C:\Users\robin\OneDrive\Bureaublad\GitSchool\delegateDemo\bin\Debug\delegateDemo.exe
+C:\Users\robin\OneDrive\Bureaublad\GitSchool\delegateDemo\bin\Debug\delegateDemo.pdb
+C:\Users\robin\OneDrive\Bureaublad\GitSchool\delegateDemo\obj\Debug\delegateDemo.csprojAssemblyReference.cache
+C:\Users\robin\OneDrive\Bureaublad\GitSchool\delegateDemo\obj\Debug\delegateDemo.Form1.resources
+C:\Users\robin\OneDrive\Bureaublad\GitSchool\delegateDemo\obj\Debug\delegateDemo.Properties.Resources.resources
+C:\Users\robin\OneDrive\Bureaublad\GitSchool\delegateDemo\obj\Debug\delegateDemo.csproj.GenerateResource.cache
+C:\Users\robin\OneDrive\Bureaublad\GitSchool\delegateDemo\obj\Debug\delegateDemo.exe
+C:\Users\robin\OneDrive\Bureaublad\GitSchool\delegateDemo\obj\Debug\delegateDemo.pdb

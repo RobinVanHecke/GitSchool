@@ -40,9 +40,10 @@
             // 
             // btnMaakNieuweChildForm
             // 
-            this.btnMaakNieuweChildForm.Location = new System.Drawing.Point(12, 12);
+            this.btnMaakNieuweChildForm.Location = new System.Drawing.Point(9, 10);
+            this.btnMaakNieuweChildForm.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.btnMaakNieuweChildForm.Name = "btnMaakNieuweChildForm";
-            this.btnMaakNieuweChildForm.Size = new System.Drawing.Size(552, 45);
+            this.btnMaakNieuweChildForm.Size = new System.Drawing.Size(414, 37);
             this.btnMaakNieuweChildForm.TabIndex = 0;
             this.btnMaakNieuweChildForm.Text = "Maak nieuwe childform";
             this.btnMaakNieuweChildForm.UseVisualStyleBackColor = true;
@@ -50,18 +51,20 @@
             // 
             // tbLogText
             // 
-            this.tbLogText.Location = new System.Drawing.Point(12, 376);
+            this.tbLogText.Location = new System.Drawing.Point(9, 306);
+            this.tbLogText.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.tbLogText.Multiline = true;
             this.tbLogText.Name = "tbLogText";
             this.tbLogText.ScrollBars = System.Windows.Forms.ScrollBars.Both;
-            this.tbLogText.Size = new System.Drawing.Size(552, 263);
+            this.tbLogText.Size = new System.Drawing.Size(415, 214);
             this.tbLogText.TabIndex = 1;
             // 
             // btnVulLijstMetRandomGetallen
             // 
-            this.btnVulLijstMetRandomGetallen.Location = new System.Drawing.Point(12, 63);
+            this.btnVulLijstMetRandomGetallen.Location = new System.Drawing.Point(9, 51);
+            this.btnVulLijstMetRandomGetallen.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.btnVulLijstMetRandomGetallen.Name = "btnVulLijstMetRandomGetallen";
-            this.btnVulLijstMetRandomGetallen.Size = new System.Drawing.Size(552, 48);
+            this.btnVulLijstMetRandomGetallen.Size = new System.Drawing.Size(414, 39);
             this.btnVulLijstMetRandomGetallen.TabIndex = 2;
             this.btnVulLijstMetRandomGetallen.Text = "Vul List<int> met\r\n20 randomgetallen";
             this.btnVulLijstMetRandomGetallen.UseVisualStyleBackColor = true;
@@ -69,9 +72,10 @@
             // 
             // btnToonGetallenOpParent
             // 
-            this.btnToonGetallenOpParent.Location = new System.Drawing.Point(13, 117);
+            this.btnToonGetallenOpParent.Location = new System.Drawing.Point(10, 95);
+            this.btnToonGetallenOpParent.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.btnToonGetallenOpParent.Name = "btnToonGetallenOpParent";
-            this.btnToonGetallenOpParent.Size = new System.Drawing.Size(551, 48);
+            this.btnToonGetallenOpParent.Size = new System.Drawing.Size(413, 39);
             this.btnToonGetallenOpParent.TabIndex = 3;
             this.btnToonGetallenOpParent.Text = "Toon inhoud van random \r\nlijst op parent-form";
             this.btnToonGetallenOpParent.UseVisualStyleBackColor = true;
@@ -79,9 +83,10 @@
             // 
             // btnToonParentNaam
             // 
-            this.btnToonParentNaam.Location = new System.Drawing.Point(13, 226);
+            this.btnToonParentNaam.Location = new System.Drawing.Point(10, 184);
+            this.btnToonParentNaam.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.btnToonParentNaam.Name = "btnToonParentNaam";
-            this.btnToonParentNaam.Size = new System.Drawing.Size(552, 48);
+            this.btnToonParentNaam.Size = new System.Drawing.Size(414, 39);
             this.btnToonParentNaam.TabIndex = 4;
             this.btnToonParentNaam.Text = "Toon naam van parent-form";
             this.btnToonParentNaam.UseVisualStyleBackColor = true;
@@ -89,9 +94,10 @@
             // 
             // btnToonChildForms
             // 
-            this.btnToonChildForms.Location = new System.Drawing.Point(13, 280);
+            this.btnToonChildForms.Location = new System.Drawing.Point(10, 228);
+            this.btnToonChildForms.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.btnToonChildForms.Name = "btnToonChildForms";
-            this.btnToonChildForms.Size = new System.Drawing.Size(552, 43);
+            this.btnToonChildForms.Size = new System.Drawing.Size(414, 35);
             this.btnToonChildForms.TabIndex = 5;
             this.btnToonChildForms.Text = "Toon childForms van deze parent";
             this.btnToonChildForms.UseVisualStyleBackColor = true;
@@ -99,9 +105,10 @@
             // 
             // btnToonGetallenOpChild
             // 
-            this.btnToonGetallenOpChild.Location = new System.Drawing.Point(14, 172);
+            this.btnToonGetallenOpChild.Location = new System.Drawing.Point(10, 140);
+            this.btnToonGetallenOpChild.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.btnToonGetallenOpChild.Name = "btnToonGetallenOpChild";
-            this.btnToonGetallenOpChild.Size = new System.Drawing.Size(551, 48);
+            this.btnToonGetallenOpChild.Size = new System.Drawing.Size(413, 39);
             this.btnToonGetallenOpChild.TabIndex = 6;
             this.btnToonGetallenOpChild.Text = "Toon inhoud van random \r\nlijst op child-form";
             this.btnToonGetallenOpChild.UseVisualStyleBackColor = true;
@@ -109,9 +116,10 @@
             // 
             // btnClearLogText
             // 
-            this.btnClearLogText.Location = new System.Drawing.Point(14, 329);
+            this.btnClearLogText.Location = new System.Drawing.Point(10, 267);
+            this.btnClearLogText.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.btnClearLogText.Name = "btnClearLogText";
-            this.btnClearLogText.Size = new System.Drawing.Size(550, 41);
+            this.btnClearLogText.Size = new System.Drawing.Size(412, 33);
             this.btnClearLogText.TabIndex = 7;
             this.btnClearLogText.Text = "Wis tekstbox";
             this.btnClearLogText.UseVisualStyleBackColor = true;
@@ -119,9 +127,9 @@
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(576, 651);
+            this.ClientSize = new System.Drawing.Size(432, 529);
             this.Controls.Add(this.btnClearLogText);
             this.Controls.Add(this.btnToonGetallenOpChild);
             this.Controls.Add(this.btnToonChildForms);
@@ -131,6 +139,7 @@
             this.Controls.Add(this.tbLogText);
             this.Controls.Add(this.btnMaakNieuweChildForm);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
+            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.Name = "Form1";
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Form1_FormClosing);
             this.ResumeLayout(false);
